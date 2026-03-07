@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://manto842800.github.io/yanyan-s-life/sitemap.xml
